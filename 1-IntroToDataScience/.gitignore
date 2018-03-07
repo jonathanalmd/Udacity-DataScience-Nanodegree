@@ -24,3 +24,4 @@ __pycache__
 .cache
 .coverage
 *.swp
+*.pdf
